@@ -1,0 +1,46 @@
+.body{
+    display: grid;
+    height: 600px;
+    width: 100%;
+    place-items:center;
+    background: rgb(219, 219, 219) !important;
+}
+.btn-fb{
+
+    background-color: green !important;
+  }
+
+  .heading{
+
+    color:blue ;
+    
+    
+    }
+    
+
+
+.wrapper{
+    width: 500px;
+    background: rgb(255, 249, 249) !important;
+    border-radius: 15px;
+    box-shadow: 0px 15px 20px rgba(212, 32, 32, 0.1);
+}
+
+.wrapper .title{
+    font-size: 35px;
+    font-weight: 600;
+    text-align: left;
+    color: #cf0000;
+    user-select: none;
+    border-radius: 15px 15px 0 0;
+    background: #2b519a;
+    padding: 32px;
+}
+
+.title p{
+    font-size: 18px;
+}
+
+.wrapper form{
+    padding: 10px 30px 50px 30px;
+}
